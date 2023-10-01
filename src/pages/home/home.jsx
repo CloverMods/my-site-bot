@@ -10,7 +10,8 @@ function Home(){
         </div>
         <div className="conteudo">
           <div className="texto">
-            <p>bem vindo.</p>
+            <iframe src="https://www.youtube.com/watch?v=lur5Vmwr_UA&t=4s" frameborder="0" allowfullscreen></iframe>
+            <p>Base bot 100% editavel para vc fazer o seu bot</p>
           </div>
         </div>
       </div>
