@@ -10,7 +10,7 @@ function Home(){
         </div>
         <div className="conteudo">
           <div className="texto">
-            <p>ola mundo.</p>
+            <p>bem vindo.</p>
           </div>
         </div>
       </div>
