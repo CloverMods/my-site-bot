@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Verdana", sans-serif;
+}
+
+/* Título */
+.titulo {
+    font-weight: bold; /* Deixa o texto em negrito para ênfase */
+    font-family: Arial, sans-serif; /* Escolha uma fonte que transmita sofisticação */
+    color: #FFD700; /* Cor do título (dourado) */
+    background-color: #333; /* Cor de fundo (preto) */
+    padding: 10px 20px; /* Espaçamento interno para dar destaque ao texto */
+  margin: 6px;
+  border-radius: 5px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.conteudo {
+  margin: 5px;
+  background-color: #333;
+  border-radius: 5px;
+}
+
+.texto {
+  margin: 5px;
+  
+}
